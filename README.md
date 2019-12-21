@@ -1,3 +1,7 @@
+# Resources:
+# [PyQGIS API](https://qgis.org/pyqgis/3.4/)
+# The OSGeo4W shell (packed with QGIS)
+
 # Background
 
 QGIS is a standalone geographical information system application. This project is adapted from a [Udemy video course](https://www.udemy.com/course/introduction-to-qgis-python-programming/learn/lecture/6184170). With it I show how to leverage QGIS as a tool for developing geospatial applications using Python. Using QGIS, you can avoid a lot of complexity by developing at a higher level, making use of many of the tools for viewing, analyzing and editing geospatial data that are provided by the QGIS system. Using these tools, you can build more sophisticated geospatial applications with less time and effort.
